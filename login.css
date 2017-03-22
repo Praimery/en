@@ -1,5 +1,4 @@
 .authentication {
-    background-image: url('http://thememakker.com/swift/university/assets/images/bg-1.jpg');
     background-size: cover;
     background-position: top center;
 }
@@ -220,7 +219,7 @@
 .card.alt .toggle:before {
     content: '\f158';
     display: inline-block;
-    font-family: 'Material-Design-Iconic-Font';
+    font-family: 'Material Icons';
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
@@ -250,7 +249,7 @@
 }
 .card.alt .title .close:before {
     content: '\f136';
-    font-family: 'Material-Design-Iconic-Font';
+    font-family: 'Material Icons';
     font-size: 35px;
 }
 .card.alt .input-container input { color: #ffffff; }
